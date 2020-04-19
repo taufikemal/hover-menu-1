@@ -11,7 +11,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #0d0f1b;
+    background:url("https://i.ibb.co/hWVX3DN/back-1.png");
+    background-size: 100%;
     overflow: hidden;
 }
 
@@ -23,6 +24,7 @@ ul{
 
 ul li{
     list-style: none;
+    text-align: center;
 }
 
 ul li:before{
