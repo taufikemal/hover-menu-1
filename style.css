@@ -156,17 +156,6 @@ ul p{
     font-size: 1.2em;
 }
 
-#container-utama .konten-utama a{
-    position: relative;
-    display: inline-block;
-    padding: 10px 25px;;
-    background: #ff0562;
-    color: #fff;
-    text-decoration: none;
-    margin-top: 25px;
-    border-radius:  25px;
-    border-bottom: 4px solid #d00d56;
-}
 
 #container-utama .konten-utama .teks-utama h2{
     font-size: 100px;
