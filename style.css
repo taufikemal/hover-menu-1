@@ -172,6 +172,19 @@ ul p{
 }
 
 
+::-webkit-scrollbar{
+    width: 12px;
+}
+
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(transparent,#ff007790);
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background: linear-gradient(transparent,#00c6ff);
+}
+
 @keyframes bbb {
     from{
         background-position: left 0 top 0;
