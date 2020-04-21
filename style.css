@@ -128,7 +128,7 @@ ul p{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('p404.png') #2e1f53;
+    background: url('p404.png') #22173de3;
     box-shadow: 0 15px 30px rgba(0,0,0,.5);
 
 }
